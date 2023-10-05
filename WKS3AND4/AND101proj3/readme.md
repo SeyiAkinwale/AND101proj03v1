@@ -19,27 +19,17 @@ The following REQUIRED features are completed:
 
 - [ ] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [X] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [X] Layout uses one (1) or more ConstraintLayout
+- [X] Layout uses one (1) or more ImageView
+- [X] Layout uses three (3) or more TextViews
 
-The following STRETCH features are implemented:
-
-- [ ] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
 
 I have chosen to duplicate the following layout from the **Paypal** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://i.imgur.com/xQEJlWO.jpg' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
