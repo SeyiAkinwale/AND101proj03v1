@@ -9,15 +9,11 @@ Time spent: **15** hours spent in total
 ## Summary
 
 **Panthers** is an android app that is based off the Paypal Login UI
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **👍🏿🦾🤛🏿**
 
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
-The following REQUIRED features are completed:
-
-- [ ] Pick an app screenshot to duplicate
+- [X] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
 - [X] Create a runnable app that displays an Animal Version of your chosen screenshot
 - [X] Layout uses one (1) or more ConstraintLayout
